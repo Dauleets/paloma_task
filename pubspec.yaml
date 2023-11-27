@@ -23,6 +23,7 @@ dependencies:
   flutter_native_splash: ^2.3.2
   flutter_localization: ^0.1.14
   json_annotation: ^4.8.1
+  flutter_svg: ^2.0.9
 
 dev_dependencies:
   flutter_test:
